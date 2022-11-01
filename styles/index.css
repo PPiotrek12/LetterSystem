@@ -1,0 +1,48 @@
+
+	input[type=text], input[type=password]
+	{
+	    width: 100%;
+		padding: 12px 20px;
+		display: inline-block;
+		border: 1px solid #ccc;
+		box-sizing: border-box;
+	}
+
+	input[type=submit]
+	{
+		background-color: #5bc764;
+		color: white;
+		padding: 14px 20px;
+		margin: 8px 0;
+		border: none;
+		cursor: pointer;
+		width: 100%;
+	}
+
+	.container
+	{
+		padding: 16px;
+	}
+	table
+	{
+		background: white;
+		opacity: 0.89;
+		border: 3px solid #f1f1f1;
+		padding: 3%;
+	    margin-top: 8%;
+	}
+	span
+	{
+		color: red;
+	}
+
+	#left  
+	{
+		float:left;
+		margin-left: 25%;
+	}
+	#right
+	{ 
+		float:right;
+		margin-right: 25%;
+	} 
